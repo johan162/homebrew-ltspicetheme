@@ -5,7 +5,7 @@ class Themeltspice < Formula
   desc "Set or create a named color theme for LTSpice Circuit Simulator"
   homepage "https://github.com/johan162/ltspice-osx-themes"
   url "https://github.com/johan162/themeltspice/archive/refs/tags/v1.3.5.tar.gz"
-  sha256 "5e1909ce0818ab114ce353c84f0b1bcc240a4e08a4e4374484c8d3cc66ffb3ed"
+  sha256 "a35fda9038e48959b76a3eb26efb2f1bc6cce8d5c84fe24fbc2b4bc4c8679436"
   license "MIT"
 
   # depends_on "cmake" => :build
